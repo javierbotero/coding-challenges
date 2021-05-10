@@ -1,0 +1,25 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Always solve coding challenges is a must as a developer, and also is fun! here there are solved challenges from Hacker Rank and LeetCode in Ruby and JavaScript. The name of the files is the name of how you can find them on such platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierbotero/coding-challenges.git"
+  },
+  "author": "Javier Botero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierbotero/coding-challenges/issues"
+  },
+  "homepage": "https://github.com/javierbotero/coding-challenges#readme",
+  "devDependencies": {
+    "babel-eslint": "10.x",
+    "eslint": "7.x",
+    "eslint-config-airbnb-base": "14.x",
+    "eslint-plugin-import": "2.x"
+  }
+}
